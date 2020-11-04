@@ -1,4 +1,4 @@
-# -MCCVR
+# MCCVR
 
 ## Algorithm
 
